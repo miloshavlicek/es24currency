@@ -5,7 +5,7 @@
 * 
 */ 
 
-include_once DIR_LIB.'/ES24Objects/class.ES24CurrencyValue.php';
+include_once __DIR__.'/class.ES24CurrencyValue.php';
 
 class ES24Currency {
     
