@@ -60,7 +60,7 @@ $html2 = $currencyValue->getFormatted();
         </style>
     </head>
     <body>
-        <div id="github" onclick="window.location.href='https://github.com/miloshavlicek/ES24Currency';">github</div>
+        <div id="github" onclick="window.location.href='https://github.com/miloshavlicek/es24currency';">github</div>
         <div id="page">
             <h1>ES24Currency</h1>
             <p class="paragraph">
